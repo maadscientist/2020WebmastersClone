@@ -3,11 +3,11 @@ const path = require('path');
 
 const app = express();
 
-app.use(express.static(__dirname + '/dist/src'));
+app.use(express.static(__dirname + '/dist/2020WebmastersClone'));
 
 app.get('/*', function(req,res) {
 
-res.sendFile(path.join(__dirname+'/dist/src/index.html'));
+res.sendFile(path.join(__dirname+'/dist/2020WebmastersClone/index.html'));
 });
 
 app.listen(process.env.PORT || 8080);
