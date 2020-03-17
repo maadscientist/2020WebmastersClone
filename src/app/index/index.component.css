@@ -27,7 +27,7 @@
     width: 100%;
     height: 700px;
     background-color: white;
-    background-image: url("../../assets/car1.jpg");
+    background-image: url("../../assets/firstcar.jpg");
     background-size: 100%; 
     background-attachment: fixed;
     background-position: center;
@@ -40,7 +40,7 @@
     width: 100%;
     height: 700px;
     background-color: white;
-    background-image: url("../../assets/car2.jpg");
+    background-image: url("../../assets/secondcar.jpg");
     background-size: 100%; 
     background-attachment: fixed;
     background-position: center;
@@ -53,7 +53,7 @@
     width: 100%;
     height: 700px;
     background-color: white;
-    background-image: url("../../assets/car3.jpg");
+    background-image: url("../../assets/thirdcar.jpg");
     background-size: 100%; 
     background-attachment: fixed;
     background-position: center;
